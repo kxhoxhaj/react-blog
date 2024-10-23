@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "First Post of the Day 1.1",
+      "datetime": "October 23, 2024 2:34:11 PM",
+      "body": "Lets start testing and debugging our app"
+    },
+    {
+      "id": "2",
+      "title": "This is 2nd Post",
+      "datetime": "October 23, 2024 1:59:20 PM",
+      "body": "This second post is to check if the stringy of id works"
+    },
+    {
+      "id": "21",
+      "title": "3rd post",
+      "datetime": "October 23, 2024 2:19:56 PM",
+      "body": "Playing with ide and checking console log to see results"
+    },
+    {
+      "id": 22,
+      "title": "4th post",
+      "datetime": "October 23, 2024 2:28:59 PM",
+      "body": "quick test"
+    },
+    {
+      "id": 23,
+      "title": "5th",
+      "datetime": "October 23, 2024 2:30:19 PM",
+      "body": "no yet"
+    },
+    {
+      "id": 24,
+      "title": "6th",
+      "datetime": "October 23, 2024 2:31:42 PM",
+      "body": "almost"
+    },
+    {
+      "id": 25,
+      "title": "7th",
+      "datetime": "October 23, 2024 2:32:57 PM",
+      "body": "there"
+    }
+  ]
+}
